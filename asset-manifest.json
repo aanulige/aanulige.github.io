@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/aanulige.github.io/static/css/main.7e6d34ae.css",
+    "main.js": "/aanulige.github.io/static/js/main.6106d4a0.js",
+    "static/js/453.53abc377.chunk.js": "/aanulige.github.io/static/js/453.53abc377.chunk.js",
+    "static/media/IMG_0177.png": "/aanulige.github.io/static/media/IMG_0177.451d0162045acbaa7cac.png",
+    "index.html": "/aanulige.github.io/index.html",
+    "main.7e6d34ae.css.map": "/aanulige.github.io/static/css/main.7e6d34ae.css.map",
+    "main.6106d4a0.js.map": "/aanulige.github.io/static/js/main.6106d4a0.js.map",
+    "453.53abc377.chunk.js.map": "/aanulige.github.io/static/js/453.53abc377.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e6d34ae.css",
+    "static/js/main.6106d4a0.js"
+  ]
+}
